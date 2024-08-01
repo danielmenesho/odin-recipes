@@ -1,1 +1,1 @@
-# odin-recipes
+This project is a simple HTML webpage showcasing three different websites. The purpose of this project is to get familiar with basic coding in HTML along with increasing proficiency in the use of Githu.
